@@ -1,8 +1,12 @@
 Nicole Njuguna
 Joy Kimathi
 A FOR APPLE
+<<<<<<< HEAD
+Avocado
+=======
 aftin
 wambui
 Joy Kimathi
 Jaiii
 aftin
+>>>>>>> 57535020e3a68d9e75005cdef270b2750b985b13
